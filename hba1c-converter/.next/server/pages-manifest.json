@@ -1,7 +1,11 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/api/carbs": "pages/api/carbs.js",
   "/_document": "pages/_document.js",
-  "/about": "pages/about.js",
-  "/": "pages/index.js"
+  "/api/convert": "pages/api/convert.js",
+  "/about": "pages/about.html",
+  "/": "pages/index.html",
+  "/reports": "pages/reports.html",
+  "/404": "pages/404.html"
 }
